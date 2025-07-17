@@ -1,7 +1,8 @@
-let fruits = ["apple", "banana", "mango"];
+let fruits = ["grapes", "apple", "banana", "mango", 45, 77];
 
-fruits.push("orange");
-fruits.pop();
-let which=3;
 
-console.log(fruits[which]); 
+var length= fruits.length;
+var index=length/2;
+console.log(index)
+console.log(fruits[index])
+
