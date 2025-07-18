@@ -45,6 +45,6 @@ let value = 'Hassan';
 let num = 21;
 let flag = 'true'
 
-console.log(value)
-console.log(num)
-console.log(flag)
+console.log(value)  //string
+console.log(num)    //number
+console.log(flag)   //boolean
